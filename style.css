@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(21, 76, 138);
+    padding: 20px;
+    margin:0px;
+}
+#bg1{
+    display: flex;
+    border-radius: 20px;
+    overflow: hidden;
+    height:700px;
+    width:90%;
+    margin-left:1%;
+}
+#loginSide{
+    width:50%;
+    background-color: white;
+   padding-top: 10%;
+    
+}
+
+#sideImage{
+    width:50%;
+    background-color: red;
+    background-image: url("/work-desk.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#text1{
+    font-size: 40px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    
+
+}
+#inputText{
+    margin-left: 10%;
+   width:70%;
+   height: 30px;
+   border-radius: 5px;
+   border:1px solid grey
+}
+#inputCheckbox{
+  margin-left: 10%;
+}
+#button{
+    background-color: rgb(68, 68, 236);
+    width:70%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10%;
+}
+#text2{
+    color: white;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+p{
+    text-align: center;
+}
